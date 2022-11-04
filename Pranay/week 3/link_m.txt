@@ -1,0 +1,1 @@
+This is link text and changes made in here are also automatically made in its linked file.
